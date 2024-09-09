@@ -1,2 +1,3 @@
 # first-one-
-Just wanna explore git hub .
+Just wanna explore git and git hub .
+author - swarnima 
